@@ -1,0 +1,9 @@
+ P		BT		WT		TAT		
+ 1		6		 7		 13
+ 2		2		 0		 2
+ 3		8		 14		 22
+ 4		3		 0		 3
+ 5		4		 2		 6
+
+Average waiting time = 4.6
+Average turn around time = 9.2
